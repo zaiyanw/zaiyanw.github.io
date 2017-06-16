@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Zaiyan Wei, Ph.D.</title>
-    <link>https://example.com/talk/</link>
+    <link>https://zaiyanw.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Zaiyan Wei, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Discussion with Krannert Dean David Hummels</title>
-      <link>https://example.com/talk/krannert-interview/</link>
+      <link>https://zaiyanw.github.io/talk/krannert-interview/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/krannert-interview/</guid>
+      <guid>https://zaiyanw.github.io/talk/krannert-interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AEA Interview</title>
-      <link>https://example.com/talk/aea-interview/</link>
+      <link>https://zaiyanw.github.io/talk/aea-interview/</link>
       <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/aea-interview/</guid>
+      <guid>https://zaiyanw.github.io/talk/aea-interview/</guid>
       <description></description>
     </item>
     
