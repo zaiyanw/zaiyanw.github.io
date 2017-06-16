@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Zaiyan Wei</title>
-    <link>https://example.com/publication_types/2/</link>
-    <description>Recent content in 2 on Zaiyan Wei</description>
+    <title>Working Papers on Zaiyan Wei</title>
+    <link>https://example.com/wp/</link>
+    <description>Recent content in Working Papers on Zaiyan Wei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Zaiyan Wei</copyright>
-    <lastBuildDate>Wed, 07 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Market Mechanisms in Online Peer-to-Peer Lending (with Mingfeng Lin)</title>
-      <link>https://example.com/publication/prosper-mechanisms/</link>
-      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/publication/prosper-mechanisms/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/wp/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
