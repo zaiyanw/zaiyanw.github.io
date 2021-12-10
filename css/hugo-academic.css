@@ -311,7 +311,7 @@ blockquote p:last-child {
 }
 
 ul.ul-interests li {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 ul.ul-edu {
@@ -329,11 +329,11 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: rgba(0,0,0,0.6);
 }
 
