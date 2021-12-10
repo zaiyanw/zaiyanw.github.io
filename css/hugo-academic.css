@@ -59,6 +59,10 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+ul li{
+    font-family: 'Times New Roman';
+}
+
 /* Navigation bar text */
 .navbar-default {
   font-family: 'Lato', sans-serif;
