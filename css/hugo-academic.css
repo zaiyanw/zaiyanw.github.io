@@ -61,6 +61,7 @@ ul, ol, dl {
 
 ul li{
     font-family: 'Garamond', serif;
+    font-size: 1rem;
 }
 
 /* Navigation bar text */
