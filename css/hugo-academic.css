@@ -60,8 +60,8 @@ ul, ol, dl {
 }
 
 ul li{
-    font-family: 'Garamond', serif;
-    font-size: 1rem;
+    font-family: inherit;
+    font-size: 1.25rem;
 }
 
 /* Navigation bar text */
