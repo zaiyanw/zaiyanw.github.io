@@ -43,7 +43,7 @@ body {
 }
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
-    margin-top: 51px; /* Offset body content by navbar height. */
+    margin-top: 10px; /* Offset body content by navbar height. */
   }
 }
 
@@ -239,7 +239,7 @@ blockquote p:last-child {
     padding: 60px 0 60px 0;
   }
   .home-section:first-of-type {
-    padding-top: 10px;
+    padding-top: 40px;
   }
 }
 
