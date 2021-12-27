@@ -37,7 +37,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  margin-top: 10px; /* Offset body content by navbar height. */
+  margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
 }
