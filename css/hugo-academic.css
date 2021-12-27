@@ -37,13 +37,13 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  margin-top: 71px; /* Offset body content by navbar height. */
+  margin-top: 10px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
 }
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
-    margin-top: 10px; /* Offset body content by navbar height. */
+    margin-top: 51px; /* Offset body content by navbar height. */
   }
 }
 
