@@ -227,7 +227,7 @@ blockquote p:last-child {
 }
 
 .home-section:first-of-type {
-  padding-top: 10px;
+  padding-top: 40px;
 }
 
 .home-section:nth-of-type(even) {
@@ -239,7 +239,7 @@ blockquote p:last-child {
     padding: 60px 0 60px 0;
   }
   .home-section:first-of-type {
-    padding-top: 40px;
+    padding-top: 10px;
   }
 }
 
