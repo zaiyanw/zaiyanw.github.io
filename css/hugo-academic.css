@@ -750,7 +750,7 @@ article {
 
 footer {
   margin: 4rem 0 0;
-  padding: 1rem 0;
+  padding: 2rem 0;
   width: 100%;
 }
 
@@ -762,6 +762,7 @@ footer p {
 .site-footer,
 footer a#back_to_top i {
   color: #899596;
+  padding-top: 1rem
 }
 
 /*************************************************
