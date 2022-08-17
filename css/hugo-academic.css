@@ -70,7 +70,7 @@ ul li{
 .navbar-default {
   font-family: inherit;
   font-weight: 400;
-  line-height: 1.25;
+  line-height: 1;
   text-rendering: optimizeLegibility;
 }
 
