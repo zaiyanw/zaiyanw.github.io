@@ -251,7 +251,7 @@ blockquote p:last-child {
 .section-heading p {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: #b2b2b2;
 }
 
@@ -316,7 +316,7 @@ blockquote p:last-child {
 }
 
 ul.ul-interests li {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 ul.ul-edu {
