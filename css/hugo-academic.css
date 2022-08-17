@@ -63,7 +63,7 @@ ul, ol, dl {
 ul li{
     font-family: inherit;
     font-size: 1rem;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 /* Navigation bar text */
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 
 h2 {
@@ -277,14 +277,14 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 300;
   color: #000000;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
-  font-size: 1.25rem;
+  font-size: 1.125em;
   font-weight: 300;
   color: #000000;
   margin: 0px 0 10px 0;
