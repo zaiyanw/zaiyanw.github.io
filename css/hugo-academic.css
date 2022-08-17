@@ -246,6 +246,7 @@ blockquote p:last-child {
 
 .section-heading h1 {
   margin: 0 0 10px 0;
+  font-size: 1.25rem;
 }
 
 .section-heading p {
@@ -284,7 +285,7 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h3 {
-  font-size: 1.125em;
+  font-size: 1rem;
   font-weight: 300;
   color: #000000;
   margin: 0px 0 10px 0;
