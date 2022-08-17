@@ -57,13 +57,13 @@ p {
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
 ul li{
     font-family: inherit;
     font-size: 1rem;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 /* Navigation bar text */
