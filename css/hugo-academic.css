@@ -277,14 +277,14 @@ blockquote p:last-child {
 }
 
 #profile .portrait-title h2 {
-  font-size: 1.75em;
+  font-size: 1.75rem;
   font-weight: 300;
   color: #000000;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
-  font-size: 1.125em;
+  font-size: 1.25rem;
   font-weight: 300;
   color: #000000;
   margin: 0px 0 10px 0;
