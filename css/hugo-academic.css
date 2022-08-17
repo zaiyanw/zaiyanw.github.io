@@ -317,6 +317,7 @@ blockquote p:last-child {
 
 ul.ul-interests li {
   font-size: 1rem;
+  margin-bottom: 0;
 }
 
 ul.ul-edu {
