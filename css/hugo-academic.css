@@ -885,7 +885,7 @@ nav#navbar-main li {
 .navbar-brand,
 .navbar-nav li a {
   height: inherit;
-  line-height: 30px;
+  line-height: 1.6 ;
   padding-top: 10px;
   padding-bottom: 10px;
 }
