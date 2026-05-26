@@ -24,9 +24,75 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
     <link rel="stylesheet" href="/css/hugo-academic.css">
         
-        @media (prefers-color-scheme: dark) {
-            ...
-        }
+        <!-- Automatic dark mode: follows the visitor's OS/browser color-scheme preference. -->
+        <style>
+            :root {
+                color-scheme: light dark;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                body {
+                    background-color: #121212;
+                    color: #e6e6e6;
+                }
+
+                .home-section,
+                .site-footer {
+                    background-color: #121212;
+                }
+
+                .navbar-default {
+                    background-color: #181818;
+                    border-color: #2a2a2a;
+                }
+
+                .navbar-default .navbar-brand,
+                .navbar-default .navbar-nav > li > a,
+                .section-heading h1,
+                h1, h2, h3, h4, h5, h6,
+                .portrait-title h2,
+                .portrait-title h3 {
+                    color: #f2f2f2;
+                }
+
+                p, li, span,
+                .portrait-title h3,
+                .powered-by {
+                    color: #e6e6e6;
+                }
+
+                a {
+                    color: #8ab4f8;
+                }
+
+                a:hover,
+                a:focus {
+                    color: #aecbfa;
+                }
+
+                .btn-primary.btn-outline {
+                    color: #8ab4f8;
+                    border-color: #8ab4f8;
+                    background-color: transparent;
+                }
+
+                .btn-primary.btn-outline:hover,
+                .btn-primary.btn-outline:focus {
+                    color: #121212;
+                    background-color: #8ab4f8;
+                    border-color: #8ab4f8;
+                }
+
+                .pub-icon,
+                .fa-li {
+                    color: #bbbbbb;
+                }
+
+                hr {
+                    border-top-color: #333333;
+                }
+            }
+        </style>
 
     <link rel="alternate" href="https://zaiyanw.github.io/index.xml" type="application/rss+xml" title="Zaiyan Wei, Ph.D.">
     <link rel="feed" href="https://zaiyanw.github.io/index.xml" type="application/rss+xml" title="Zaiyan Wei, Ph.D.">
