@@ -36,9 +36,32 @@
                 color: #e6e6e6;
             }
 
+            /* Override the Academic theme's alternating light section backgrounds.
+               The theme often uses selectors such as .home-section:nth-of-type(even),
+               which are more specific than .home-section alone. */
+            body,
+            section.home-section,
             .home-section,
+            .home-section:nth-of-type(odd),
+            .home-section:nth-of-type(even) {
+                background-color: #121212 !important;
+            }
+
+            /* Keep a subtle alternating effect in dark mode without using white/gray panels. */
+            section.home-section:nth-of-type(even),
+            .home-section:nth-of-type(even) {
+                background-color: #181818 !important;
+            }
+
             .site-footer {
-                background-color: #121212;
+                background-color: #121212 !important;
+            }
+
+            .home-section .container,
+            .home-section .row,
+            .home-section [class^="col-"],
+            .home-section [class*=" col-"] {
+                background-color: transparent !important;
             }
 
             .navbar-default {
